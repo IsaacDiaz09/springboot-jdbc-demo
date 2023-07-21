@@ -1,0 +1,6 @@
+{
+  "driverClassName": "org.postgresql.Driver",
+  "url": "postgresql://localhost:5432/postgres?user=#user&password=#password",
+  "username": "postgres",
+  "password": "postgres"
+}

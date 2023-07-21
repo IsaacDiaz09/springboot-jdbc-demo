@@ -1,0 +1,6 @@
+{
+  "driverClassName": "com.microsoft.sqlserver.jdbc.SQLServerDriver",
+  "url": "sqlserver://;serverName=localhost;databaseName=master;trustServerCertificate=true",
+  "username": "sa",
+  "password": "__Secret_P@assword"
+}
